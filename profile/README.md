@@ -21,6 +21,9 @@
 <br />
 
 </span>
+  
+***READ WHITE PAPER : 
+[White Paper ](https://metaviralcex.com/assets/media/metaviral-mtv-final-2.pdf)***
 
 ## Blockchain Information
 
