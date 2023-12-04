@@ -3,7 +3,7 @@
 
 
 
-[![Twitter](https://img.shields.io/badge/Reddit-black?logo=reddit&logoColor=white)]([[[https://twitter.com/MindChain1](https://www.reddit.com/user/MetaViralNow)])
+[![MetaViral](https://raw.githubusercontent.com/MetaViralBit/.github/main/profile/photo_6300746968200231289_y.jpg)]([[[https://metaviral.live/](https://metaviral.live/))
 
 ---
   
