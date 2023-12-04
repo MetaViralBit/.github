@@ -56,7 +56,7 @@ Copy the desired RPC URL from above to connect to the network.
 
 ## Getting Started
 
-To get started with Mind Smart Chain, you can visit our [website]([https://mindchain.info](https://metaviral.live/)) and explore our [GitHub repository](https://github.com/Mind-chain/Msc-node).
+To get started with MetaViral Smart Chain, you can visit our [website]([https://mindchain.info](https://metaviral.live/)) and explore our [GitHub repository](https://github.com/MetaViralBit/mtv-node).
 
 ## Contributing
 
