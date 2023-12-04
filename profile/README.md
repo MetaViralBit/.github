@@ -3,7 +3,7 @@
 
 
 
-[![MetaViral](https://raw.githubusercontent.com/MetaViralBit/.github/main/profile/photo_6300746968200231289_y.jpg)]([[[https://metaviral.live/](https://metaviral.live/))
+[![MetaViral](https://raw.githubusercontent.com/MetaViralBit/.github/main/mtv.jpg)]([[[https://metaviral.live/](https://metaviral.live/))
 
 ---
   
